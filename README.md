@@ -2,7 +2,6 @@
 - [Spring中文文档](https://springdoc.cn/)
 - [JavaScript教程](https://zh.javascript.info/)
 - [Docker教程](https://docker-practice.github.io/zh-cn/)
-- [知乎专栏：技术传播那些事儿](https://www.zhihu.com/column/tc-fun)
 # GitHub 个人贡献数据统计
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ObjectKjq&theme=dark&show_icons=true)
 
