@@ -5,14 +5,6 @@
 # GitHub 个人贡献数据统计
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ObjectKjq&theme=dark&show_icons=true)
 
-### My side projects
-
-1. Collecting and sharing awesome resources about technical communication (tech comm):
-
-    [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=lilin90&repo=awesome-technical-communication&theme=radical)](https://github.com/lilin90/awesome-technical-communication)
-
-    > **Note:** Currently, this project includes tech comm resources in both English and Chinese.
-
 2. Keep writing and publishing articles about tech comm (technical writing, stories, self-improvement, etc.) in Chinese:
 
     - [知乎专栏：技术传播那些事儿](https://www.zhihu.com/column/tc-fun)
