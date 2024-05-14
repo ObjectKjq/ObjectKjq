@@ -3,14 +3,7 @@
 - [JavaScript教程](https://zh.javascript.info/)
 - [Docker教程](https://docker-practice.github.io/zh-cn/)
 # GitHub 个人贡献数据统计
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-### Hi there  
-  I'm Lilian Lee 李琳, a Content Strategist | Senior Technical Writer.
-
-I love photography  , traveling ✈️, cooking and enjoying delicious food   ([a Lv7 VIP at Dianping 大众点评](https://m.dianping.com/userprofile/121632876)).
-And I love fruit very much.        
-
-![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilin90&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ObjectKjq&theme=dark&show_icons=true)
 
 ### My side projects
 
